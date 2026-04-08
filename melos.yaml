@@ -1,0 +1,4 @@
+name: awesome_flutter_real_world_patterns
+
+packages:
+  - examples/**

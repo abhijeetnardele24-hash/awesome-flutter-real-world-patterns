@@ -42,6 +42,13 @@ This repo focuses on **small, practical, production-minded examples** that solve
 - [Offline Sync Queue](examples/offline_sync_queue/README.md)
 - [Theme Architecture](examples/theme_architecture/README.md)
 
+### Available now
+
+- runnable auth repository example
+- runnable file upload flow example
+- runnable theme architecture example
+- starter state snippets for pagination
+
 ### Planned patterns
 
 - secure token storage
@@ -99,9 +106,31 @@ awesome-flutter-real-world-patterns/
 3. Copy the structure, not just the code.
 4. Adapt it to your own app boundaries.
 
+## Run an example locally
+
+Each runnable example is a small standalone Flutter app.
+
+```bash
+cd examples/auth_repository_pattern
+flutter pub get
+flutter run
+```
+
+```bash
+cd examples/file_upload_flow
+flutter pub get
+flutter run
+```
+
+```bash
+cd examples/theme_architecture
+flutter pub get
+flutter run
+```
+
 ## Current status
 
-This repo is being assembled pattern by pattern. The first goal is to make the examples **clean, practical, and highly reusable**.
+This repo is being assembled pattern by pattern. The current focus is to keep every example **clean, practical, and highly reusable**, with enough structure to look like a real app instead of a toy snippet.
 
 See:
 

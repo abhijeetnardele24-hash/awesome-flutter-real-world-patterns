@@ -1,5 +1,6 @@
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # awesome-flutter-real-world-patterns
-
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Production-style Flutter examples for real app problems: authentication, file upload, caching, pagination, offline sync, theming, architecture, and state management.
 
 This repository is being built as a clean collection of practical Flutter patterns that developers actually search for:

@@ -1,5 +1,5 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-# awesome-flutter-real-world-patterns
+                                                                     # awesome-flutter-real-world-patterns
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Production-style Flutter examples for real app problems: authentication, file upload, caching, pagination, offline sync, theming, architecture, and state management.
 
